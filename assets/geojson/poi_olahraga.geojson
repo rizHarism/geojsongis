@@ -1,0 +1,238 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": { "type": "Point", "coordinates": [112.15802470000006, -8.1078060999999479] },
+      "properties": { "FID": 21, "Remarks": "OLAHRAGA", "Ket": "GOR BADMINTON KARANGSARI", "Alamat": "GOR PB HOLLAND BHONK Karangsari, Karangsari, Kec. Sukorejo, Kota Blitar, Jawa Timur 66125, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": { "type": "Point", "coordinates": [112.17355260000011, -8.0968668999999522] },
+      "properties": { "FID": 22, "Remarks": "OLAHRAGA", "Ket": "GOR BADMINTON SASANA KRIDA", "Alamat": "Gor Badminton Sasana Krida, Bendogerit, Kec. Sananwetan, Kota Blitar, Jawa Timur 66133, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": { "type": "Point", "coordinates": [112.1529091000001, -8.1026505999999472] },
+      "properties": { "FID": 23, "Remarks": "OLAHRAGA", "Ket": "GOR PELANGI BLITAR", "Alamat": "Gor Pelangi Blitar, Turi, Kec. Sukorejo, Kota Blitar, Jawa Timur 67126, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": { "type": "Point", "coordinates": [112.17296700000009, -8.0916612999999415] },
+      "properties": { "FID": 24, "Remarks": "OLAHRAGA", "Ket": "GOR TENIS AGUNG", "Alamat": "Tenis Agung, Jl. Ir. Soekarno, Sentul, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66113, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": { "type": "Point", "coordinates": [112.16361550000011, -8.1032012999999665] },
+      "properties": { "FID": 25, "Remarks": "OLAHRAGA", "Ket": "GOR TENIS MELATI", "Alamat": "Lap.Tenis Melati Blitar, Kepanjen Kidul, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66117, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": { "type": "Point", "coordinates": [112.17729050000003, -8.1162908999999672] },
+      "properties": { "FID": 26, "Remarks": "OLAHRAGA", "Ket": "GREEN FUTSAL", "Alamat": "Green Futsal Blitar, Jl. Maluku No.34, Karangtengah, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": { "type": "Point", "coordinates": [112.18025470000009, -8.1029558999999267] },
+      "properties": { "FID": 27, "Remarks": "OLAHRAGA", "Ket": "INOS FUTSAL", "Alamat": "Inos Futsal dan Cafe, Jl. Legundi No.19-21, Sananwetan, Kec. Sananwetan, Kota Blitar, Jawa Timur 66136, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": { "type": "Point", "coordinates": [112.17101770000011, -8.0983696999999779] },
+      "properties": { "FID": 28, "Remarks": "OLAHRAGA", "Ket": "KANTOR KONI", "Alamat": "KONI KOTA BLITAR, Jl. S. Supriadi No.109, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66117, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": { "type": "Point", "coordinates": [112.16714390000004, -8.0866522999999688] },
+      "properties": { "FID": 29, "Remarks": "OLAHRAGA", "Ket": "KANTOR PABBSI", "Alamat": "PABBSI Kota Blitar, Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66116, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": { "type": "Point", "coordinates": [112.16690690000007, -8.0891076999999427] },
+      "properties": { "FID": 30, "Remarks": "OLAHRAGA", "Ket": "KANTOR PSSI", "Alamat": "Kantor Pssi Kota Blitar, Jl. Cisadane, Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66116, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": { "type": "Point", "coordinates": [112.17660840000008, -8.1064637999999718] },
+      "properties": { "FID": 31, "Remarks": "OLAHRAGA", "Ket": "KOLAM RENANG LETESA", "Alamat": "Kolam Renang LETESA (Lesehan Tengah Sawah), Jl. Karimata, Sananwetan, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": { "type": "Point", "coordinates": [112.1647028000001, -8.1309724999999275] },
+      "properties": { "FID": 32, "Remarks": "OLAHRAGA", "Ket": "KOLAM RENANG TELAGA NIRMALA", "Alamat": "Kolam Renang Telaga Nirmala, Jl. Halmahera No.131, Klampok, Kec. Sananwetan, Kota Blitar, Jawa Timur 66136, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": { "type": "Point", "coordinates": [112.17571810000004, -8.1160356999999408] },
+      "properties": { "FID": 33, "Remarks": "OLAHRAGA", "Ket": "KOLAM RENANG TIRTA YONIF 511 BADAK HITAM", "Alamat": "Kolam Renang Tirta Badak Hitam, Jl. Maluku No.14, Karangtengah, Sananwetan, Blitar City, East Java 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": { "type": "Point", "coordinates": [112.18238890000009, -8.0858536999999728] },
+      "properties": { "FID": 34, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN BENDOGERIT", "Alamat": "Lapangan Bendogerit, Bendogerit, Kec. Sananwetan, Kota Blitar, Jawa Timur 66133, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": { "type": "Point", "coordinates": [112.15729380000005, -8.092120399999942] },
+      "properties": { "FID": 35, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN DIMORO", "Alamat": "Lapangan Dimoro, Sukorejo, Kec. Sukorejo, Kota Blitar, Jawa Timur 66121, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": { "type": "Point", "coordinates": [112.15644810000003, -8.1130462999999509] },
+      "properties": { "FID": 36, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN KARANGSARI", "Alamat": "Lapangan Karangsari Blitar, Karangsari, Kec. Sukorejo, Kota Blitar, Jawa Timur 67125, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": { "type": "Point", "coordinates": [112.15929140000003, -8.0879043999999567] },
+      "properties": { "FID": 37, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN KAUMAN", "Alamat": "Lapangan Kauman, Kauman, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66117, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": { "type": "Point", "coordinates": [112.14192170000001, -8.1033831999999393] },
+      "properties": { "FID": 38, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN KELURAHAN BLITAR", "Alamat": "Lapangan Kelurahan Blitar, Jl. Rayung Wulan No.172-126, Blitar, Kec. Sukorejo, Kota Blitar, Jawa Timur 67126, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": { "type": "Point", "coordinates": [112.15999610000006, -8.1325483999999619] },
+      "properties": { "FID": 39, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN KLAMPOK", "Alamat": "Lapangan Klampok, Klampok, Kec. Sananwetan, Kota Blitar, Jawa Timur 66136, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": { "type": "Point", "coordinates": [112.1752153000001, -8.0630534999999668] },
+      "properties": { "FID": 40, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN NGADIREJO", "Alamat": "lapangan sepak bola ngadirejo, Ngadirejo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66114, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": { "type": "Point", "coordinates": [112.19187760000011, -8.0954008999999587] },
+      "properties": { "FID": 41, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN NGEGONG", "Alamat": "Lapangan Ngegong, Jl. Pemuda Sumpono, Gedog, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": { "type": "Point", "coordinates": [112.14844220000009, -8.0914634999999748] },
+      "properties": { "FID": 42, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN PAKUNDEN", "Alamat": "Lapangan Pakunden, Pakunden, Kec. Sukorejo, Kota Blitar, Jawa Timur 67122, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": { "type": "Point", "coordinates": [112.16500750000012, -8.1119899999999348] },
+      "properties": { "FID": 43, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN PLOSOKEREP", "Alamat": "Lapangan Kel. Plosokerep, Jl. Kenari No.47, Plosokerep, Kec. Sananwetan, Kota Blitar, Jawa Timur 66134, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": { "type": "Point", "coordinates": [112.15241350000008, -8.1087649999999485] },
+      "properties": { "FID": 44, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN RUSUNAWA JATI", "Alamat": "Lapangan Rusunawa Jati, Turi, Kec. Sukorejo, Kota Blitar, Jawa Timur 67126, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": { "type": "Point", "coordinates": [112.18101060000004, -8.1023911999999427] },
+      "properties": { "FID": 45, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN SMAN 1 KOTA BLITAR", "Alamat": "Lapangan SMAN 1 Kota Blitar, Jl. Kalimantan No.35, Sananwetan, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": { "type": "Point", "coordinates": [112.16431650000004, -8.1049116999999455] },
+      "properties": { "FID": 46, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN SMAN 4 KOTA BLITAR", "Alamat": "Lapangan SMA 4 Blitar, Kepanjen Kidul, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66117, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": { "type": "Point", "coordinates": [112.16690590000007, -8.0858794999999759] },
+      "properties": { "FID": 47, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN SURYA MUDA BENDO", "Alamat": "Lapangan Sepak Bola Surya Muda, Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66116, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": { "type": "Point", "coordinates": [112.15446910000003, -8.0831768999999554] },
+      "properties": { "FID": 48, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN TANJUNGSARI", "Alamat": "LAPANGAN SEPAK BOLA TANJUNGSARI, Jl. Kampar, Tanjungsari, Kec. Sukorejo, Kota Blitar, Jawa Timur 67122, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": { "type": "Point", "coordinates": [112.17817280000008, -8.1085645999999656] },
+      "properties": { "FID": 49, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN TENIS LP BLITAR", "Alamat": "Lapangan Tenis LP Blitar, Karangtengah, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": { "type": "Point", "coordinates": [112.1658963000001, -8.0971700999999712] },
+      "properties": { "FID": 50, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN TENIS PENDOPO KABUPATEN", "Alamat": "Lapangan Tenis, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66117, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": { "type": "Point", "coordinates": [112.15158800000006, -8.1169459999999276] },
+      "properties": { "FID": 51, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN TLUMPU", "Alamat": "Lapangan Sepak Bola Tlumpu, Jl. Klampis No.11, Tlumpu, Kec. Sukorejo, Kota Blitar, Jawa Timur 66124, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": { "type": "Point", "coordinates": [112.17447240000001, -8.0665360999999507] },
+      "properties": { "FID": 52, "Remarks": "OLAHRAGA", "Ket": "LAPANGAN KELURAHAN TANGGUNG", "Alamat": "Lapangan Kelurahan Tanggung Kota Blitar, Jl. Cipunegara, Tanggung, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66115, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": { "type": "Point", "coordinates": [112.1664469000001, -8.0881937999999423] },
+      "properties": { "FID": 53, "Remarks": "OLAHRAGA", "Ket": "MARENO FUTSAL", "Alamat": "Mareno Futsal Blitar, Jalan Cisadane Gang, Jl. Riam Kiri, RT.01/RW.03, Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66116, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": { "type": "Point", "coordinates": [112.16630300000008, -8.0870685999999523] },
+      "properties": { "FID": 54, "Remarks": "OLAHRAGA", "Ket": "SPORT CENTER KOTA BLITAR", "Alamat": "Sport Center Kota Blitar, Jl.Belawan, Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66116, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": { "type": "Point", "coordinates": [112.17938250000009, -8.107764599999939] },
+      "properties": { "FID": 55, "Remarks": "OLAHRAGA", "Ket": "SPORT COMPLEX SOEKARNO-HATTA", "Alamat": "Soekarno - Hatta Sport Complex, Jl. Kalimantan, Sananwetan, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": { "type": "Point", "coordinates": [112.16866540000001, -8.0930135999999493] },
+      "properties": { "FID": 56, "Remarks": "OLAHRAGA", "Ket": "STADION SOEPRIADI KOTA BLITAR", "Alamat": "Stadion Soepriadi Kota Blitar, Jl. Kelud No.125, Kepanjen Lor, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66117, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": { "type": "Point", "coordinates": [112.16580460000011, -8.0916583999999716] },
+      "properties": { "FID": 57, "Remarks": "OLAHRAGA", "Ket": "WATERPARK SUMBER UDEL", "Alamat": "Sumber Udel Waterpark, Jl. Kalibrantas No.31, Bendo, Kec. Kepanjenkidul, Kota Blitar, Jawa Timur 66116, Indonesia" }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": { "type": "Point", "coordinates": [112.18222530000003, -8.1021821999999588] },
+      "properties": {
+        "FID": 58,
+        "Remarks": "OLAHRAGA",
+        "Ket": "WINNER GYMNASIUM & FITNESS CENTER",
+        "Alamat": "Winner Gymnasium and Fitness Center, Jl. Kalimantan No.33, Sananwetan, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia"
+      }
+    }
+  ]
+}
